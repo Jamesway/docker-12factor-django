@@ -9,6 +9,8 @@ Where we would like to end up is:
 - git pull the src + pipenv install to get all packages and a working dev copy of the app
 - be deployable to Google App Engine and Heroku (wip)
 
+## Usage
+
 ### Start a project
 Right now I'm using a different django-admin image for kicking off startproject, but ideally, I'd like to combine it with my pipenv image
 ```
